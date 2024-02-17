@@ -1,0 +1,71 @@
+header {
+    position: sticky;
+    top: 0;
+    background-color: rgb(112, 112, 163);
+    color: azure;
+    font-family: 'Pinyon Script', cursive;
+
+}
+
+h1 {
+    font-family: 'Pinyon Script', cursive;
+    font-size: 60px;
+}
+
+.maintitle {
+    font-family: 'Pinyon Script', cursive;
+
+}
+
+.byline {
+    margin-left: 300px;
+    font-size: 30px;
+}
+
+img {
+    border-radius: 20%;
+}
+
+
+main {
+    height: 1000px;
+    background-color: rgb(238, 231, 231);
+}
+
+.locations {
+    border: 1px solid blue;
+    display: flex;
+    justify-content: center;
+}
+
+.seperateLocations {
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.intro {
+    max-width: 500px;
+    text-align: center;
+}
+
+.title {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'Pinyon Script', cursive;
+}
+
+.centered {
+    text-align: center;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(178, 152, 202);
+    height: 50px;
+}
